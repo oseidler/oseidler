@@ -3,7 +3,7 @@ Hi, I'm Owen Seidler, a programming student pursuing a master's degree at SMU Gu
 This GitHub page will feature different projects that I code during my time here at Guildhall. 
 
 Current repositories:
-- 
+- [Will update shortly]
 
 <!---
 oseidler/oseidler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
