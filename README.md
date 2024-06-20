@@ -1,6 +1,6 @@
-Hi, I'm Owen Seidler, a programming student pursuing a master's degree at SMU Guildhall!
+Hi, I'm Owen Seidler, a game programmer and recent graduate of SMU Guildhall.
 
-This GitHub page will feature different projects that I code during my time here at Guildhall. 
+This GitHub page will feature different projects that I coded during my time at Guildhall. 
 
 Current repositories:
 - [Will update shortly]
